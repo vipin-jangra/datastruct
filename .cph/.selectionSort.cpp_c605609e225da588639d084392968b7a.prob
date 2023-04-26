@@ -1,0 +1,1 @@
+{"name":"Local: selectionSort","url":"d:\\cpp\\datastruct\\selectionSort.cpp","tests":[{"id":1682494975835,"input":"5\n40 30 10 20 50","output":"10 20 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\selectionSort.cpp","group":"local","local":true}

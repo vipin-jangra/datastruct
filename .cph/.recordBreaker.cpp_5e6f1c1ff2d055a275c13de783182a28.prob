@@ -1,0 +1,1 @@
+{"name":"Local: recordBreaker","url":"d:\\cpp\\datastruct\\recordBreaker.cpp","tests":[{"id":1682500392978,"input":"8\n1 2 0 7 2 0 2 2 ","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\recordBreaker.cpp","group":"local","local":true}

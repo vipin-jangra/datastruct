@@ -1,0 +1,1 @@
+{"name":"Local: pythagonTripplet","url":"d:\\cpp\\datastruct\\pythagonTripplet.cpp","tests":[{"id":1682487629917,"input":"3 4 5","output":"Pythagoran tripplet"},{"id":1682487651487,"input":"3 4 4","output":"not a pythagorean triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\pythagonTripplet.cpp","group":"local","local":true}

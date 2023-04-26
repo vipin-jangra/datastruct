@@ -1,0 +1,1 @@
+{"name":"Local: insertionSort","url":"d:\\cpp\\datastruct\\insertionSort.cpp","tests":[{"id":1682496253783,"input":"7\n7 5 3 1 4 6 2","output":"1 2 3 4 5 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\insertionSort.cpp","group":"local","local":true}

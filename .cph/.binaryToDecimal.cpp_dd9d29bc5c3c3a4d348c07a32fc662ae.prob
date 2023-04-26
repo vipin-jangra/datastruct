@@ -1,0 +1,1 @@
+{"name":"Local: binaryToDecimal","url":"d:\\cpp\\datastruct\\binaryToDecimal.cpp","tests":[{"id":1682490216917,"input":"101","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\binaryToDecimal.cpp","group":"local","local":true}

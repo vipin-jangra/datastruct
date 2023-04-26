@@ -1,0 +1,1 @@
+{"name":"Local: maxTillI","url":"d:\\cpp\\datastruct\\maxTillI.cpp","tests":[{"id":1682497297635,"input":"6\n0 -9 1 3 -4 5","output":"0 0 1 3 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\maxTillI.cpp","group":"local","local":true}
