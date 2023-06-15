@@ -1,0 +1,1 @@
+{"name":"Local: TransposeMatrix","url":"d:\\cpp\\datastruct\\TransposeMatrix.cpp","tests":[{"id":1686800941255,"input":"","output":"1 4 7\n2 5 8\n3 6 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\TransposeMatrix.cpp","group":"local","local":true}
