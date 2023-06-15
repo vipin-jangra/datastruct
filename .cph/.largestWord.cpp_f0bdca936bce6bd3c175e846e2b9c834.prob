@@ -1,0 +1,1 @@
+{"name":"Local: largestWord","url":"d:\\cpp\\datastruct\\largestWord.cpp","tests":[{"id":1686847459239,"input":"10\ndo or die","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\largestWord.cpp","group":"local","local":true}
