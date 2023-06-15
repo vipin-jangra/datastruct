@@ -1,0 +1,1 @@
+{"name":"Local: matricSearch","url":"d:\\cpp\\datastruct\\matricSearch.cpp","tests":[{"id":1686804194276,"input":"3 3\n9\n1 2 3\n4 5 6\n7 8 9","output":"Element exist"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\matricSearch.cpp","group":"local","local":true}
