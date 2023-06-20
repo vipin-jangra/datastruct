@@ -1,0 +1,1 @@
+{"name":"Local: RecursionSortedArray","url":"d:\\cpp\\datastruct\\RecursionSortedArray.cpp","tests":[{"id":1687232375709,"input":"5\n1 2 4 5 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\datastruct\\RecursionSortedArray.cpp","group":"local","local":true}
