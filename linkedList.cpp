@@ -82,6 +82,22 @@ void display(Node* head){
     }cout<<"NULL"<<endl;
 }
 
+Node* reverse(Node* &head){
+    Node* prevPtr = NULL;
+    Node* currPtr = head;
+    Node* nextPtr;
+
+    while(currPtr !=NULL){
+        nextPtr = currPtr->next;
+        currPtr->next = prevPtr;
+
+        prevPtr = currPtr;
+        currPtr = nextPtr;
+    }
+
+    return prevPtr;
+}
+
 int main(){
 
     Node* head = NULL;
@@ -97,5 +113,8 @@ int main(){
 
     delteAtHead(head);
     display(head);
+
+    Node* newHead = reverse(head);
+    display(newHead);
 
 }
